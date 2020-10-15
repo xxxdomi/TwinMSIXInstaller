@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://xxxdomi.github.io/TwinMSIXInstaller/DemoInstaller.appinstaller"
-	Version="1.0.28.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.29.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="e41cae27-47ce-45ef-9a2d-90d9f65f0665"
-		Version="1.0.28.0"
+		Version="1.0.29.0"
 		Publisher="CN=digifai"
-		Uri="https://xxxdomi.github.io/TwinMSIXInstaller/DemoInstaller_1.0.28.0_Test/DemoInstaller_1.0.28.0_x64.appxbundle" />
+		Uri="https://xxxdomi.github.io/TwinMSIXInstaller/DemoInstaller_1.0.29.0_Test/DemoInstaller_1.0.29.0_x64.appxbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
